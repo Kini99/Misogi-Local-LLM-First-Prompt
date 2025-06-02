@@ -1,0 +1,1 @@
+# Misogi-Local-LLM-First-Prompt
